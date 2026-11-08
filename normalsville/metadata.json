@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "none",
+                "Name": "Florence"
+            }
+        ],
+        "Description": "Normalsville plugin",
+        "Icon": "icon.png",
+        "Id": "normalsville",
+        "License": "GPLv2",
+        "Name": "Normalsville!",
+        "Version": "0.1",
+        "Website": "https://normalsville.the-comic.org/"
+    },
+    "KPackageStructure": "Plasma/Comic",
+    "X-KDE-PlasmaComicProvider-SuffixType": "String"
+}
